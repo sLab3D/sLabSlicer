@@ -1,4 +1,4 @@
-
+```
 <h1> <p "font-size:200px;"><img align="left" src="https://github.com/SoftFever/OrcaSlicer/blob/main/resources/images/OrcaSlicer.ico" width="100"> Orca Slicer</p> </h1>
 
 [![Build all](https://github.com/SoftFever/OrcaSlicer/actions/workflows/build_all.yml/badge.svg?branch=main)](https://github.com/SoftFever/OrcaSlicer/actions/workflows/build_all.yml)
@@ -123,7 +123,6 @@ Explore the latest developments in Orca Slicer with our nightly builds. Feedback
 
 # Note: 
 If you're running Klipper, it's recommended to add the following configuration to your `printer.cfg` file.
-```
 # Enable object exclusion
 [exclude_object]
 
@@ -131,48 +130,9 @@ If you're running Klipper, it's recommended to add the following configuration t
 [gcode_arcs]
 resolution: 0.1
 ```
-
-# Supports
-**Orca Slicer** is an open-source project and I'm deeply grateful to all my sponsors and backers.   
-Their generous support enables me to purchase filaments and other essential 3D printing materials for the project.   
-Thank you! :)
-
-### Sponsors:  
-<table>
-<tr>
-<td>
-<a href="https://qidi3d.com/">
-    <img src="SoftFever_doc\sponsor_logos\QIDI.png" alt="QIDI" width="96" height="">
-</a>
-</td>
-<td>
-<a href="https://bigtree-tech.com/">
-    <img src="SoftFever_doc\sponsor_logos\BigTreeTech.png" alt="BIGTREE TECH" width="96" height="">
-</a>
-</td>
-</tr>
-</table>
-
-### Backers:  
-**Ko-fi supporters**: [Backers list](https://github.com/user-attachments/files/16147016/Supporters_638561417699952499.csv)
-
-## Support me  
-<a href="https://github.com/sponsors/SoftFever"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" width="130"></a>
-
-<a href="https://ko-fi.com/G2G5IP3CP"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200"></a>
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/softfever3d)
-
-
-## Some background
-OrcaSlicer is originally forked from Bambu Studio, it was previously known as BambuStudio-SoftFever.
-
-Bambu Studio is forked from [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) by Prusa Research, which is from [Slic3r](https://github.com/Slic3r/Slic3r) by Alessandro Ranellucci and the RepRap community. 
-Orca Slicer incorporates a lot of features from SuperSlicer by @supermerill
-Orca Slicer's logo is designed by community member Justin Levine(@freejstnalxndr)  
-
-
 # License
+sLabSlicer is licensed under the GNU Afftero General Public License, version 3. sLabSlicer is based on Orca Slicer by SoftFever.
+
 Orca Slicer is licensed under the GNU Affero General Public License, version 3. Orca Slicer is based on Bambu Studio by BambuLab.
 
 Bambu Studio is licensed under the GNU Affero General Public License, version 3. Bambu Studio is based on PrusaSlicer by PrusaResearch.
